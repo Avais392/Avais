@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avais392&show_icons=true&locale=en&layout=compact" alt="avais392" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avais392&show_icons=true&locale=en" alt="avais392" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avais392&include_all_commits=true&show_icons=true&count_private=true&locale=en&hide=stars" alt="avais392" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avais392&" alt="avais392" /></p>
